@@ -22,4 +22,4 @@ Here are some screenshots from the system:
 
 ![image](https://github.com/019mj/Car-Agency-System/assets/131479958/26139639-99c5-4a48-8250-c2ae4fbd4d9f)
 
-## Note that all the data in this projects are dummy data.
+### Note that all the data in this projects are dummy data.
